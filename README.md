@@ -25,8 +25,8 @@ This project is base on a [freeCodeCamp](https://www.freeCodeCamp.org) Markdown 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Pia007/Markdown-Previewer)
-- Live Site URL: [Add live site URL here](https://pia007.github.io/Markdown-Previewer/)
+- Solution URL: [Repository](https://github.com/Pia007/Markdown-Previewer)
+- Live Site URL: [Live Site](https://pia007.github.io/Markdown-Previewer/)
 
 ## My process
 
