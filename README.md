@@ -21,11 +21,12 @@ Markdown Previewer
 This project is base on a [freeCodeCamp](https://www.freeCodeCamp.org) Markdown Previewer Project.  The user inputs text using the correct markdown syntax and the output is immediately viewable in the preview window.
 
 ### Screenshots
+![image](https://user-images.githubusercontent.com/66088725/127219089-2fc05564-c731-4fea-b393-ae6e9f9f7033.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Pia007/Markdown)
-- Live Site URL: [Add live site URL here](https://pia007.github.io/Markdown/)
+- Solution URL: [Add solution URL here](https://github.com/Pia007/Markdown-Previewer)
+- Live Site URL: [Add live site URL here](https://pia007.github.io/Markdown-Previewer/)
 
 ## My process
 
